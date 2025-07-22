@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://obearded.github.io/Maungawhau2/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in obearded/Maungawhau2 project"
+        ]
+    },
+    "items": []
+}
